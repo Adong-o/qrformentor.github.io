@@ -1,0 +1,22 @@
+body {
+    background-color: aliceblue;
+    height: fit-content;
+
+}
+.center {
+    background-position-x: center;
+    box-sizing: 20px;
+   /* display: flex;*/
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+    background-color: rgb(186, 239, 239);
+    height: 360px;
+    width: 200px;
+    margin-left: 490px;
+    margin-bottom: 100px;
+   
+}
+
